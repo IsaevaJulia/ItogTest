@@ -29,3 +29,6 @@ void ThreeChar(string[] array1, string[] array2 )
         }
     }
 }
+
+string[] newArray = new string[] { "Hello", "2", "world", ":-)", "1234", "1567", "-2" };
+string[] newArrayTwo = new string[newArray.Length];
